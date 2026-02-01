@@ -1,7 +1,8 @@
 streamlit
-opencv-python-headless
 torch
 torchvision
-vtracer
+Pillow
+opencv-python-headless
 realesrgan
 basicsr
+numpy
