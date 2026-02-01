@@ -1,7 +1,4 @@
 streamlit
 opencv-python-headless
-pyvtracer
-realesrgan
-basicsr
 torch
 torchvision
